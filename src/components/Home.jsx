@@ -1,0 +1,16 @@
+import React from "react";
+
+
+class Home extends React.Component{
+    
+  
+    render(){
+      return(
+        <h2>Halaman ini berisi materi - Materi yang dipelajari</h2>
+      )
+    }
+  
+  
+  }
+  
+  export default Home;
